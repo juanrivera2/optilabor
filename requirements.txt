@@ -1,0 +1,9 @@
+streamlit
+Pillow
+streamlit-extras
+langchain-community
+llama-index
+python-dotenv
+python-docx
+pandas
+numpy
